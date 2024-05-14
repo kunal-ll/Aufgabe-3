@@ -54,7 +54,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
 - **Branch `feature-add-task` auf `main` rebasen**
 - Commit-History ansehen:
       ```
-      git log --oneline --all
+      git log --oneline --all --graph
       ```
 
 - **Branch `feature-delete-task` in `main` mergen**

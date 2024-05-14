@@ -20,7 +20,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
                  button.textContent = "Done";
                  button.addEventListener("click", function() {
                      li.classList.toggle("done");
-                 });
+                 }); /* done
                  li.appendChild(button);
                  document.getElementById("tasks").appendChild(li);
                  document.getElementById("new-task").value = "";
@@ -42,7 +42,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
                  button.textContent = "Delete";
                  button.addEventListener("click", function() {
                      li.remove();
-                 });
+                 }); /* delete
                  li.appendChild(button);
                  document.getElementById("tasks").appendChild(li);
                  document.getElementById("new-task").value = "";

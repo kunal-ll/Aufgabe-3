@@ -31,7 +31,6 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
      ```
 - Zurück zum `main` Branch wechseln
 - Erstelle einen Branch namens `feature-delete-task`
-- Feature zum Branch `feature-delete-task` hinzufügen:
 - Aktualisiere `index.html` mit folgendem Skript und comitte dies:
      ```html
      <script>

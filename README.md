@@ -6,7 +6,6 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
    git clone https://github.com/kunal-ll/Aufgabe-3.git
    cd Aufgabe-3
    ```
-In 
 
 - Feature-Branch erstellen und hinwechseln
 - Erstelle Branch namens `feature-add-task`

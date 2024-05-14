@@ -1,10 +1,12 @@
 # Git-Workshop Aufgabe-3
 
 **Aufgabe 3 - Branching und Merging Steckbrief**
-Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
+Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende Aufgabe.
    ```sh
    git clone https://github.com/kunal-ll/Aufgabe-3.git
+   cd Aufgabe-3
    ```
+In 
 
 - Feature-Branch erstellen und hinwechseln
 - Erstelle Branch namens `feature-add-task`

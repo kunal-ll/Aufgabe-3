@@ -7,8 +7,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
    cd Aufgabe-3
    ```
 
-- Feature-Branch erstellen und hinwechseln
-- Erstelle Branch namens `feature-add-task`
+- Feature-Branch namens `feature-add-task` erstellen und hinwechseln 
 - Aktualisiere `index.html` mit folgendem Skript und comitte dies:
      ```html
      <script>

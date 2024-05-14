@@ -50,12 +50,11 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
          });
      </script>
      ```
-     
-- **Branch `feature-add-task` auf `main` rebasen**
-- Commit-History ansehen:
+- **Branch `feature-delete-task` in `main` mergen**
+-  Commit-History ansehen:
       ```
       git log --oneline --all --graph
       ```
-
-- **Branch `feature-delete-task` in `main` mergen**
+- **Branch `feature-add-task` auf `main` rebasen**
+- Mergekonflikt beheben
 - Commit-History nochmal ansehen

@@ -57,5 +57,6 @@ Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
       ```sh
       git log --oneline --all
       ```
+
 - **Branch `feature-delete-task` in `main` mergen**
 - Commit-History nochmal ansehen

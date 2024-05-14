@@ -54,7 +54,7 @@ Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
      
 - **Branch `feature-add-task` auf `main` rebasen**
 - Commit-History ansehen:
-      ```sh
+      ```
       git log --oneline --all
       ```
 

@@ -56,5 +56,6 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
       git log --oneline --all --graph
       ```
 - **Branch `feature-add-task` auf `main` rebasen**
-- Mergekonflikt beheben
+- Den Konflikt beheben
+- Den rebase fortsetzen mit git rebase --continue
 - Commit-History nochmal ansehen

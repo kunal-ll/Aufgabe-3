@@ -61,7 +61,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
       ```
 - **Branch `feature-done-task` auf `main` rebasen**
 - Den Konflikt beheben<details> <summary>(Klicke hier, wenn du Hilfe benötigst)</summary>
-Wir haben 2 Features in das Projekt eingefügt und wollen auch beide nun in der Main-Branch haben. Also solltest du Änderungen beide kombinieren.
+Wir haben 2 Features in das Projekt eingefügt und wollen auch beide nun in der Main-Branch haben. Also solltest du beide Änderungen kombinieren.
 
 </details>
 - Den rebase fortsetzen mit git rebase --continue

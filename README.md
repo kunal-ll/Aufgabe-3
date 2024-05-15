@@ -40,7 +40,7 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
            if (taskText) {
                const li = document.createElement("li");
                li.textContent = taskText;
-// Create Delete button
+               // Create Delete button
                const deleteButton = document.createElement("button");
                deleteButton.textContent = "Delete";
                deleteButton.addEventListener("click", function() {

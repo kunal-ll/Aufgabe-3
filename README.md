@@ -61,7 +61,6 @@ Bitte clont das Projekt, navigiert in den Order rein und bearbeitet die folgende
       ```
 - **Branch `feature-done-task` auf `main` rebasen**
 - Den Konflikt beheben
-Hinweis: für Konfliktbehebung
 <details>
   <summary>Klicke hier, wenn du Hilfe benötigst</summary>
 Wir haben 2 Features in das Projekt eingefügt und wollen auch beide nun in der Main-Branch haben. Also solltest du Änderungen beide kombinieren.
